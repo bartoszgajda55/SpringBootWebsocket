@@ -1,3 +1,5 @@
+package hello;
+
 public class HelloMessage {
   private String name;
 
